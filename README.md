@@ -1,4 +1,4 @@
-# Capmo Automation Cypress
+# Saucedemo Automation Cypress
 
 ### Prerequisite 
   - Download [Node.js LTS](https://nodejs.org/en/) and install based on your system.
